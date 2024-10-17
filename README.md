@@ -9,10 +9,12 @@ To write a program to implement the linear regression model with gradient descen
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Choose a learning rate (α) which controls how much to update the parameters in each step.
+2. Use the current parameters to predict the output. For a linear regression model, the hypothesis
+3. The cost function (mean squared error) is used to quantify how far the predictions are from the
+actual values:
+4. Update the parameters iteratively by moving them in the direction that reduces the cost
+function:
 
 ## Program:
 ```
